@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @indianathe3rdKing
 - 👀 I’m interested in ...you
-- 🌱 I’m currently learning ...full stack...
+- 🌱 I’m currently learning ...AWS services,S3,DynamoDB,Lambda,Secrets Manager,API Gateway...Also front end technologies including React,Nextjs,ManifestV3 etc
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...not yet but indianathe3rd@gmail.com , no socials
 - 😄 Pronouns: ...Screw them 
